@@ -1,0 +1,66 @@
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #dddddd;
+
+}
+
+figcaption {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    padding: 15px;
+    display: block;
+    float: left;
+    position: absolute;
+    bottom: 15px;
+    padding-right: 137px;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+header {
+    background-color: #ffffff;
+    border-bottom: #cccccc 2px solid;
+}
+
+hr {
+    color: #777777;
+}
+
+p {
+    color: #777777;
+    float: left;
+    width: 80%;
+}
+
+.container {
+    background-color: #ffffff;
+
+}
+
+.navbar-brand {
+    color: white;
+    background-color: #4aaaa5;
+    font-weight: bold;
+}
+
+#copyrightText {
+    background-color: #666666;
+    color: white;
+    border-top: #4aaaa5 solid 5px;
+    display: block;
+    text-align: center;
+}
+
+#formNote {
+    color: red;
+}
